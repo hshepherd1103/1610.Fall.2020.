@@ -3,3 +3,4 @@ Sunny 97 degrees August 26
 Sunny 90 degrees August 27
 Sunny 95 degrees August 28
 Partly cloudy 72 degrees August 29
+Sunny 82 degrees August 30
