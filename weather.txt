@@ -5,3 +5,4 @@ Sunny 95 degrees August 28
 Partly cloudy 72 degrees August 29
 Sunny 82 degrees August 30
 Partly cloudy 61 degrees August 31
+Sunny 72 degrees September 1
